@@ -1,5 +1,5 @@
 package pe.edu.idat.apppatitasidatccm.retrofit.response
 
 data class ResponseRegister (
-    var rpta: String,
+    var rpta: Boolean,
     var mensaje: String)
